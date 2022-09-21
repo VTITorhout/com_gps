@@ -1,0 +1,25 @@
+{
+  "name": "innovet_com_gps",
+  "version": "0.0.0",
+  "description": "Arduino UNO/ESP communication code for serial GPS",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "Koen GEERAERT",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-zooming": "^1.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTITorhout/com_GPS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VTITorhout/com_GPS.git/issues"
+  },
+  "homepage": "https://github.com/VTITorhout/com_GPS.git#readme"
+}
